@@ -1,4 +1,3 @@
-// grab a reference of our "canvas" using its id
 const canvas = document.getElementById('canvas');
 /* get a "context". Without "context", we can't draw on canvas */
 const ctx = canvas.getContext('2d');
